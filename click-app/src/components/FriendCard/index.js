@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 
+// This function creates a card whichs hold the props' image and can be click on 
 function FriendCard(props){
     console.log(props)
     
