@@ -1,7 +1,7 @@
 import React from "react";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
-import friendsfile from "./friendsfile.json";
+import friendsfile from "./friendsfile.json.js";
 import "./App.css";
 
 
